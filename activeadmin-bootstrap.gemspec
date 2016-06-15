@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Activeadmin::Bootstrap::VERSION
   spec.authors       = ["Van Huy"]
   spec.email         = ["huyvpq@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{activeadmin-bootstrap}
   spec.description   = %q{activeadmin-bootstrap}
   spec.homepage      = ""
   spec.license       = "MIT"
